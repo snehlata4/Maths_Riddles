@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "619225766507",
+    "firebase_url": "https://riddles-9bd0e.firebaseio.com",
+    "project_id": "riddles-9bd0e",
+    "storage_bucket": "riddles-9bd0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619225766507:android:d194fb51e2b4ff2d",
+        "android_client_info": {
+          "package_name": "com.example.rb.riddles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619225766507-50fh4psu6s8url2dk4u3i5eqg2aorcm0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rb.riddles",
+            "certificate_hash": "45489a702a9e8d45a9a304539b9b0fc58c4a8308"
+          }
+        },
+        {
+          "client_id": "619225766507-12u9dpkjvsv0upa87t5ftosleoobkjb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDthJhQ6oOYVhBDTHKySeCcI5M2FmLw8a0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619225766507-12u9dpkjvsv0upa87t5ftosleoobkjb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
